@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 <h1 align="center">Hi 👋, I'm Wb_1106</h1>
 <h3 align="center">A frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/33/7a/f3/337af398877b856f25624144420a5230.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/60/2d/df/602ddfa21b9c4892ffa2740e6c24feef.gif">
 
 
 - 🌱 I’m currently learning **React**
