@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0e/0d/9f/0e0d9fc7a1e651ff13bd0499bb94d593.gif)
+![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 <h1 align="center">Hi 👋, I'm Wb_1106</h1>
 <h3 align="center">A frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/60/2d/df/602ddfa21b9c4892ffa2740e6c24feef.gif">
