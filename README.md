@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 <h1 align="center">Hi 👋, I'm Wb_1106</h1>
-<h3 align="center">A frontend developer from VietNam</h3>
+<h3 align="center">A frontend intern from VietNam</h3>
 <img align="right" alt="Coding" width="400" height="250" src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif">
 
 
